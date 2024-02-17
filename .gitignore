@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Apple stuff
+.DS_Store
+
+# Data
+data/recordings/
+
 # C extensions
 *.so
 
