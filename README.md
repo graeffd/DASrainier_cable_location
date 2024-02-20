@@ -1,2 +1,3 @@
 # Locate Mt Rainier DAS channels ...
 ... along the fiber-optic cable under the road from Paradise (Mt Rainier) to the Nisqually National Park entrance.
+![Fiber-optic cable layout](./other/Screenshot_GoogleEarth.png)
